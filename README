@@ -1,0 +1,4 @@
+This is an implementation of a pseudo random number generator using recursive hash chains
+and entropy pooling from /dev/random and time
+
+It should not be used in production under any circumstances for anything ever.

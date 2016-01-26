@@ -1,0 +1,6 @@
+.rebar
+ebin
+priv/*.so
+deps/
+.eunit/
+*.beam
